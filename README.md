@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="GOAL TIME" width="100%" />
+  <img src="https://raw.githubusercontent.com/majidbmk/Goal_Time/refs/heads/main/img/s3.png" alt="GOAL TIME" width="100%" />
 </p>
 
 <h1 align="center">گل‌تایم</h1>
@@ -40,9 +40,8 @@
 اپلیکشن با فریمورک فلاتر نوشته شده است و API ها با DRF در جنگو توسعه داده شده است
 
 <p align="center">
-  <img src="" width="45%" />
+  <img src="https://raw.githubusercontent.com/majidbmk/Goal_Time/refs/heads/main/img/s1.png" width="45%" />
   &nbsp;&nbsp;
-  <img src="" width="45%" />
 </p>
 
 ## download : 
@@ -59,7 +58,7 @@ https://play.google.com/store/apps/details?id=com.hamid.goaltime&hl=en
 > کد منبع (سورس کد) این پروژه محرمانه بوده و به دلیل رعایت حقوق مالکیت کارفرما، امکان دسترسی عمومی به آن وجود ندارد.
 
 <p align="center">
-  <a href="https://github.com/itsMajid-dev/fanichii" target="_blank">
+  <a href="https://github.com/itsMajid-dev/goal_time_v2" target="_blank">
     <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
