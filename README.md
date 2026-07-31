@@ -1,0 +1,67 @@
+<p align="center">
+  <img src="" alt="GOAL TIME" width="100%" />
+</p>
+
+<h1 align="center">گل‌تایم</h1>
+
+<p align="center">
+اپلیکیشن اندرویدی فوتبالی ، نتایج زنده و اخبار  ورزشی
+</p>
+
+<br/>
+
+## ℹ️ Site Information
+
+| Field | Details |
+|---|---|
+|   URL | [API](https://api.goal-time.win/) |
+|   APP | [google play](https://play.google.com/store/apps/details?id=com.hamid.goaltime&hl=en) |
+|  Start Date | 1404.8.3 |
+|  Completion Date | 1405.10.10 |
+|  Client  |   حمید الله رحمانی |
+|  Technologies Used | Django, PostgreSQL, DRF , flutter , Redis , Postman  |
+|  status |  🟢Active |
+
+
+<br/>
+
+## 📖 About the Project
+
+گل تایم ( به پیشتو گول تایم) یک اپلیکشن اندرویدی فوتبلی است ، گل‌تایم اولین اپلیکشن فوتبالی برای افغانستان است امکانات گل تایم : 
+- سه زبانه ( فارسی ، انگلیسی ، پشتو)
+- استفاده  از API رسمی fotball-data 
+- نمایش مچ ها و بازی ها لحظه ای 
+- اخبار فوتبالی
+- نمایش لیگ های بین‌المللی و لیگ افغانستان
+- نمایش خلاصه بازی ها ، بازی های درحال جریان و بازی های آتی
+- مشخصات بازیکنان 
+  
+وظیفه من در این پروژه ساخت و تست API های RESTful می باشد 
+اپلیکشن با فریمورک فلاتر نوشته شده است و API ها با DRF در جنگو توسعه داده شده است
+
+<p align="center">
+  <img src="" width="45%" />
+  &nbsp;&nbsp;
+  <img src="" width="45%" />
+</p>
+
+## download : 
+
+https://play.google.com/store/apps/details?id=com.hamid.goaltime&hl=en
+
+<br/>
+
+
+
+## source code
+
+> [!WARNING]
+> کد منبع (سورس کد) این پروژه محرمانه بوده و به دلیل رعایت حقوق مالکیت کارفرما، امکان دسترسی عمومی به آن وجود ندارد.
+
+<p align="center">
+  <a href="https://github.com/itsMajid-dev/fanichii" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
